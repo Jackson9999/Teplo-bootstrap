@@ -1,0 +1,79 @@
+*{
+ margin: 0;
+ padding: 0;
+}
+html{
+    overflow-x: hidden;
+}
+.logo img{
+	      width: 50px;
+}
+.logo  p{
+	    font-size: 2em;
+}
+.info{
+	 margin-right: -50px;
+}
+.button{
+	    width: 40px;
+		height: 41px;
+		margin-left: -38px;
+}
+.navbar li a{
+	        margin-left: 10px;
+	        font-weight: bold;
+}
+.banner{
+	   background: url('img/ban.jpg') no-repeat center center;
+	   background-size: cover;
+	   -o-background-size: cover;
+	   -webkit-background-size: cover;
+	   -moz-background-size: cover;
+	   width: 100%;
+	   height: 550px;
+}
+.block{
+	  background: rgb(204,204,204);
+	  line-height: 16px;
+}
+.block p{
+	    margin-left: 165px;
+		margin-right: -5px;
+		padding-right: 10px;
+		opacity: 0.7;
+}
+.rounded-pill{
+	  font-size: 15px;
+}
+button img{
+	      width: 40px;
+		  margin-right: 40px;
+		  margin-left: -11px;
+		  padding-top: 10px;
+}
+button .avto{
+	        width: 45px;
+		    margin-right: 30px;
+		    padding-top: 10px;
+}
+.down-banner{
+	        background: url('img/Home-Page.jpg') no-repeat center center;
+	        background-size: cover;
+	        -o-background-size: cover;
+	        -webkit-background-size: cover;
+	        -moz-background-size: cover;
+	        width: 100%;
+	        height: 490px;
+}
+.down-banner .text-left{
+	                   opacity: 0.7;
+}
+.down-block{
+	       background: rgb(204,204,204);
+}
+.best img{
+	     width: 150px;
+}
+.footer{
+	   width: 1170px;
+}
